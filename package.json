@@ -6,6 +6,7 @@
     "gulp-watch": "^4.3.11"
   },
   "dependencies": {
+    "fs": "0.0.1-security",
     "object.entries": "^1.0.4"
   },
   "scripts": {
